@@ -1,5 +1,6 @@
 # Galagtris
 DESCRIPTION:
+
 A work in progress of a game that is a combination of Galaga and Tetris. The player controls a single cell white ship and tries to fire shots at the enemy ship above. The enemy ship cycles through the different shapes of the classic Tetris pieces that everybody has come to know and love. 
 
 This project is not nearly complete and is more of a foundation that I will be continually working on. Future improvements include:
