@@ -14,6 +14,8 @@ A new game mode that involves the falling block feature of Tetris
 Possible mouse movement incorporation
 
 
+
+
 CONTROLS: 
 
 Left/Right keys to move player ship
@@ -57,13 +59,13 @@ The enemy ship may look like this (L=Left cell, R=Right cell, B=Back cell, C=Cen
    
 If you hit the left wing, the enemy ship will change to this:
  
- 
-...[B][R]
+
+....[B][R]     
 ....[L]
 
  
  
-Note that the Center cell is no longer available. The next Tetris shape will have a new Center cell.
+Note that the Center cell is no longer available, as it has been replaced with a new Left cell. This method of operation makes aiming for the Center cell the strategically best approach, although it is challenging. The next Tetris shape will have a new Center cell.
 
 
 To play, download both files into a single directory and run the module "Galagtris.py" to launch the GUI and start the game. 
