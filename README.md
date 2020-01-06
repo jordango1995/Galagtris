@@ -4,13 +4,21 @@ DESCRIPTION:
 A work in progress of a game that is a combination of Galaga and Tetris. The player controls a single cell white ship and tries to fire shots at the enemy ship above. The enemy ship cycles through the different shapes of the classic Tetris pieces that everybody has come to know and love. 
 
 This project is not nearly complete and is more of a foundation that I will be continually working on. Future improvements include:
+
 Organizing the main script into more subdirectories
+
 Back/Center cell indicators
+
 Powerups
+
 Advanced difficulty settings (if you want to manually increase difficulty, for now it can be done by decreasing the 'delay' in the "Galagtris.py" file)
+
 Enhanced enemy ship fire/movement randomization (and possibly some added intelligence)
+
 Player ship customization
+
 A new game mode that involves the falling block feature of Tetris
+
 Possible mouse movement incorporation
 
 
