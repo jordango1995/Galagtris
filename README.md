@@ -14,13 +14,18 @@ A new game mode that involves the falling block feature of Tetris
 Possible mouse movement incorporation
 
 
-The controls are: 
+CONTROLS: 
 
 Left/Right keys to move player ship
+
 Spacebar to fire
+
 'p' to pause
+
 'esc' to exit game
+
 Right Shift to restart
+
 
 
 
@@ -47,14 +52,15 @@ The enemy ship may look like this (L=Left cell, R=Right cell, B=Back cell, C=Cen
 
 
 [L][B][R]     
-   [C]
+....[C]
    
    
 If you hit the left wing, the enemy ship will change to this:
  
  
-   [B][R] 
-   [L]
+...[B][R]
+....[L]
+
  
  
 Note that the Center cell is no longer available. The next Tetris shape will have a new Center cell.
